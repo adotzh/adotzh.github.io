@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-13-welcome.md",
+                "file": "2023-10-13-about.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-13-welcome.md",
+                "file": "2023-10-13-about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-13-welcome.md",
+                "file": "2023-10-13-about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-13-welcome.md"
+                "file": "2023-10-13-about.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "9f49f82c45b2dc6c",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "2023-10-13-welcome.md",
+    "2023-10-13-about.md",
     "2020-03-01-features.md",
     "2023-10-14-welcome.md",
     "Credits.md",
