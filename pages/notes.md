@@ -4,5 +4,8 @@ permalink: /notes
 feedformat: card
 title: Digital Garden
 ---
+Welcome to my personal wiki, where I share everything I’ve learned and discovered in the world, organized in an accessible online format.
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+> "Your brain is for having ideas, not holding them." 
+> 
+> – David Allen
